@@ -1,19 +1,5 @@
-## Name
+# StartNG Task 1
 
-Esenyi Solomon
+## dectobin
 
-## Email
-
-dosolomon5@gmail.com
-
-## Slack Username
-
-LordGhostX
-
-## Tracks
-
-* Backend
-
-## Courses
-
-* Python
+Converts decimal to binary
