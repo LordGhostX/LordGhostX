@@ -3,3 +3,5 @@
 ## dectobin
 
 Converts decimal to binary
+
+![dectobin screenshot](dectobin.png)
